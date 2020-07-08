@@ -1,2 +1,6 @@
 Hello People!
+<<<<<<< HEAD
 Faig un altre canvi al document  la branca master i faig commit i push
+=======
+Modifico el text del fitxer en aquesta branca branch1.
+>>>>>>> branch1
